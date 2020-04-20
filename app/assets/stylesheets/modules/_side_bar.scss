@@ -1,0 +1,60 @@
+@import "mixin/text-style";
+@import "config/margin";
+
+.side-bar {
+  background-color: #253141;
+  width: 300px;
+  height: 100vh;
+  float: left;
+  &__user-name {
+    height: 100px; 
+    width: 100%;
+    display: flex;
+    align-items: center;
+    .top-items{
+      // background-color: #d8d8d8;
+      height: 20px;
+      width: 260px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      &__name{
+        @include white-bold();
+        font-size: 16px;
+        display: block;
+        line-height: 20px;
+      }
+      &__icons{
+        width: 60px;
+        line-height: 20px;
+        text-align: right;
+        .side-bar-btn{
+          color: #ffffff;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+  &__group-list{
+    background-color: #2f3e51;
+    height: calc(100vh - 100px);
+    width: 100%;
+    .group-items{
+      height: 91px;
+      width: 100%;
+      position: relative;
+      &__name{
+        @include white-bold();
+        font-size: 15px;
+        position: absolute;
+        margin: $side-margin $side-margin;
+      }
+      &__message{
+        @include white-bold();
+        font-size: 11px;
+        position: absolute;
+        margin: 40px $side-margin 40px $side-margin;
+      }
+    } 
+  }
+}
