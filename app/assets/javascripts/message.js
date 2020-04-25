@@ -12,6 +12,9 @@ $(function(){
           </div>
        </div>
        <div class="contents__message" data-message-id='${message.id}'>
+          <p>
+          ${message.body}
+          </p>
           <img src=${message.image}>
        </div>`
       return html;
