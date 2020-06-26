@@ -27,17 +27,13 @@ TECHCAMPというプログラミングスクールのカリキュラム内にあ
 
 [![Image from Gyazo](https://i.gyazo.com/ad344bc806130014ad13defe4190c8b6.png)](https://gyazo.com/ad344bc806130014ad13defe4190c8b6)
 
-### 2. 他のユーザー
+### 2. 他のユーザーを招待して、グループを作成
 
 ![Image from Gyazo](d8bef6a94949c7b12338715fb365cf81.gif)
 
-### 3.　負の遺産へのレビューを行う
+### 3.　テキストまたは写真を送信すると、相手の画面が自動で更新され、リアルタイムでチャットができる
 
-![Mirai-app](https://i.gyazo.com/fedeeba42e1a31c36b52063154e4e8b1.gif)
-
-### （4. ユーザー自ら遺産の追加も可能）
-
-![Mirai-app](https://i.gyazo.com/35ebf5050ef81da56919b575e68ccd4c.png)
+![Image from Gyazo](d826515259b0a4ed0118982bd977f4f3.gif)
 
 # 工夫したポイント
 - ローディングアニメーションを実装し、ユーザーにインパクトのあるUIを心がけました。
