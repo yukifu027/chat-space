@@ -25,9 +25,9 @@ TECHCAMPというプログラミングスクールのカリキュラム内にあ
 
 ### 1. トップページからログイン
 
-![Mirai-app](https://gyazo.com/a91b17866111dc0e8aa7743f899f08f4.gif)
+[![Image from Gyazo](https://i.gyazo.com/ad344bc806130014ad13defe4190c8b6.png)](https://gyazo.com/ad344bc806130014ad13defe4190c8b6)
 
-### 2. 検索欄または一覧から気になる遺産を選ぶ（初期データとして登録されている）
+### 2. 他のユーザー
 
 ![Image from Gyazo](d8bef6a94949c7b12338715fb365cf81.gif)
 
