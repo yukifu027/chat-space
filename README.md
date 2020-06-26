@@ -1,4 +1,4 @@
-<h2 align="center">Mirai</h2>
+<h2 align="center">Chat Space</h2>
 
 [![Image from Gyazo](https://i.gyazo.com/60f216f03a4eac13189fe087190cd917.jpg)](https://gyazo.com/60f216f03a4eac13189fe087190cd917)
 
