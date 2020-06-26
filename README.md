@@ -29,7 +29,7 @@ TECHCAMPというプログラミングスクールのカリキュラム内にあ
 
 ### 2. 検索欄または一覧から気になる遺産を選ぶ（初期データとして登録されている）
 
-[![Image from Gyazo](https://i.gyazo.com/a5e6e640164726c7879df10eef2b4b80.jpg)](https://gyazo.com/a5e6e640164726c7879df10eef2b4b80)
+![Image from Gyazo](d8bef6a94949c7b12338715fb365cf81.gif)
 
 ### 3.　負の遺産へのレビューを行う
 
